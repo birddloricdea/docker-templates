@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Improved error handling in edge cases
 - Reviewed security headers configuration
+
+## 2026-03-23
+- Noted known limitation in docs
+- Investigated performance bottleneck, noted findings
